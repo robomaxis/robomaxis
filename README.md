@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robomaxis
-- 👀 I’m interested in Virtual Reality and Oculus Quest develipment
+- 👀 I’m interested in Virtual Reality and Oculus Quest app and hardware dev
 - 🌱 I’m currently learning Unreal Engine prototyping
 - 💞️ I’m looking to collaborate on `virtual Reality projects
 - 📫 How to reach me: robomaxis at yahoo dot com
